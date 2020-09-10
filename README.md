@@ -1,6 +1,6 @@
-04-hello-world-team-newbie
+#Team Newbie
 
-Members : 
-Muhammad Ilham Adhim 1841720076
+<h2> Members : </h2>
+1. Muhammad Ilham Adhim 1841720076
 
-Brian Sayudha 1841720158
+2. Brian Sayudha 1841720158
